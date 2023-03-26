@@ -1,7 +1,7 @@
 # Stable-diffusion-with-colab
 Stable diffusion with colab
 
-**直接点开colab的代码，下面的为补充说明和链接**
+**直接点开colab的代码，下面的只是补充说明和链接**
 
 ## Step1:
 https://github.com/camenduru/stable-diffusion-webui-colab
