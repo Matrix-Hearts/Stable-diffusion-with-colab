@@ -21,7 +21,10 @@ https://github.com/nolanaatama?tab=repositories
 ```!rm -r "/forder/."```
 删除整个文件夹(不可恢复)
 
-Linux的操作https://www.runoob.com/linux/linux-file-content-manage.html
+```!curl -Lo /content/stable-diffusion-webui/models/Lora/animeoutlineV3-000008.safetensors https://huggingface.co/nolanaatama/nmlnrtstyl/resolve/main/nmlnrtstyl.safetensors```
+从网站上下载nmlnrtstyl模型，存到Lora并命名。
+
+Linux和Shell的操作https://www.runoob.com/linux/linux-file-content-manage.html
 
 ## Step3:
 
