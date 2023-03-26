@@ -5,6 +5,8 @@ Stable diffusion with colab
 https://github.com/camenduru/stable-diffusion-webui-colab
 colab源码
 使用1-5的包
+
+进入colab
 ## Step2:
 https://github.com/nolanaatama?tab=repositories
 一些代码案例
@@ -15,6 +17,9 @@ https://github.com/nolanaatama?tab=repositories
 
 ```!cp "/content/drive/MyDrive/our_LoRA_folder/OURLORAFILE1.pt" "/content/stable-diffusion-webui/models/Lora"```
 单独复制某个文件
+
+```!rm -r "/forder/."```
+删除整个文件夹(不可恢复)
 
 Linux的操作
 
