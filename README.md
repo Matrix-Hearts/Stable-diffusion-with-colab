@@ -21,7 +21,7 @@ https://github.com/nolanaatama?tab=repositories
 ```!rm -r "/forder/."```
 删除整个文件夹(不可恢复)
 
-Linux的操作
+Linux的操作https://www.runoob.com/linux/linux-file-content-manage.html
 
 ## Step3:
 
