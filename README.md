@@ -8,6 +8,9 @@ https://github.com/camenduru/stable-diffusion-webui-colab
 colab源码
 使用1-5的包
 
+https://civitai.com/
+模型网站
+
 进入colab
 ## Step2:
 https://github.com/nolanaatama?tab=repositories
