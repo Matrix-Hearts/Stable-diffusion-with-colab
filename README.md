@@ -31,5 +31,7 @@ https://github.com/nolanaatama?tab=repositories
 
 Linux和Shell的操作https://www.runoob.com/linux/linux-file-content-manage.html
 
-## Step3:
+## To Do List
+1 学习在colab中上传文件到github，主要是咒语style.css
+2 现在从云盘上复制文件后 代码还是运行不起来
 
